@@ -1,0 +1,816 @@
+═══════════════════════════════════════════════════════════════════════════
+IPO COMPANIES - CEO PROFILES DATABASE
+═══════════════════════════════════════════════════════════════════════════
+Source: Company IR Websites / Leadership Pages
+Compiled: November 2025
+
+METHODOLOGY:
+For each ticker, search: "[TICKER] [Company Name] investor relations CEO"
+Then navigate to company IR site → Governance or Leadership/Management Team page
+Extract CEO name, title, and bio from that page
+
+═══════════════════════════════════════════════════════════════════════════
+
+1. AARD - AARDVARK THERAPEUTICS, INC.
+   IR Website: ir.aardvarktherapeutics.com
+   CEO: Dr. Tien-Li Lee, M.D.
+   Title: Founder and Chief Executive Officer
+   Bio: 20+ years as biotechnology innovator and executive. Previously Chief Strategy Officer at NantKwest (2014-2017). M.D. from UC San Diego, B.A. in Molecular Biology from UC Berkeley.
+
+2. ACTU - ACTUATE THERAPEUTICS, INC.
+   IR Website: actuatetherapeutics.com
+   CEO: Daniel M. Schmitt
+   Title: President and Chief Executive Officer
+   Bio: 30+ years of industry experience in operations management, new product development, and business development. Held senior executive positions at Fujisawa, Searle/Pharmacia, and Ilex Oncology. Led development and launch of multiple pharmaceutical products. Executed nearly $1 billion in licensing, acquisition, and development deals. M.B.A. and B.S. in Chemistry from West Virginia University. Served as Entrepreneur-in-Residence at Northwestern University.
+   Source: https://actuatetherapeutics.com/team/daniel-m-schmitt/
+
+3. ALAB - ASTERA LABS, INC.
+   IR Website: ir.asteralabs.com
+   CEO: Jitendra Mohan
+   Title: Co-Founder, Chief Executive Officer, and Executive Director
+   Started: November 2017
+   Education: B.Tech in Electrical Engineering from IIT Bombay, M.S. in Electrical Engineering from Stanford University
+
+4. ALMS - ALUMIS INC.
+   IR Website: investors.alumis.com (South San Francisco, CA)
+   CEO: Martin Babler (also known as Matt), Ph.D.
+   Title: President, Chief Executive Officer & Chairman of the Board
+   Appointed: September 2021
+   Tenure: 3.83 years
+   Compensation (2024): $10.66M (5.7% salary, 94.3% bonuses/stock)
+   Ownership: 0.2% direct shares ($413.05K)
+   Bio: Serving as President, CEO & Chairman since September 2021. Previously President & CEO of Principia Biopharma until acquisition by Sanofi (October 2020). Before that, President & CEO of Talima Therapeutics (2007-2011). Spent 1998-2007 at Genentech in multiple positions, notably VP Immunology Sales and Marketing, helped build and lead Commercial Development organization, led Cardiovascular Marketing. Earlier served at Eli Lilly and Company in sales, sales management, global marketing, and business development positions. Serves on Board of Directors of Prelude Therapeutics Inc., Sardona Therapeutics (Independent Member from May 2025, previously Chairperson), 89bio, and Emerging Companies Section Governing Board of Biotechnology Innovation Organization. Education: Ph.D. Company focus: precision oral therapies for immune-mediated diseases including ESK-001 (allosteric TYK2 inhibitor) for plaque psoriasis and systemic lupus erythematosus. Company formerly known as Esker Therapeutics, renamed January 2022.
+   IPO: 2024 (Nasdaq)
+   Recent: Merger approved with ACELYRIN in Q2 2025
+
+5. AMBQ - AMBIQ MICRO, INC.
+   IR Website: ambiq.com/investors
+   CEO: Fumihide (Humi) Esaka
+   Title: Chief Executive Officer and Chairman
+   Bio: Joined Ambiq as CEO in December 2015. 20+ years of senior management experience in the semiconductor industry. Previously CEO at Transphorm Inc. (power conversion specialist, 2013-2015) and President & CEO of Nihon Inter Electronics Corp. Served as Vice President at International Rectifier for 12 years (1995-2007). Earlier career: 6 years as Manager at Accenture consultancy firm. B.A. in Electrical Engineering and Computer Science from UC San Diego. Named Ernst & Young Entrepreneur Of The Year 2020 Central Texas Award finalist.
+   Source: https://ambiq.com/news/fumihide-esaka-becomes-ceo-of-ultra-low-power-semiconductor-technology-leader-ambiq-micro/
+
+6. ANRO - ALTO NEUROSCIENCE, INC.
+   IR Website: investors.altoneuroscience.com
+   CEO: Dr. Amit Etkin, M.D., Ph.D.
+   Title: Founder, Chairman of the Board, Chief Executive Officer, and President
+   Started: March 2019 (Founder); President since November 2023
+   Bio: Founded Alto Neuroscience in March 2019. Tenure of 6+ years. Pioneered the Precision Psychiatry Platform™ to develop personalized treatments for neuropsychiatric disorders. [Full bio requires additional IR page access]
+
+7. ARTV - ARTIVA BIOTHERAPEUTICS, INC.
+   IR Website: investors.artivabio.com (San Diego, CA)
+   CEO: Fred Aslan, M.D., MBA
+   Title: President & Chief Executive Officer
+   Appointed: January 2021
+   Tenure: ~4.9 years
+   Ownership: 21.40% insider ownership
+   Bio: Joined Artiva as CEO in January 2021, led company's Series B financing, IPO (July 2024), and transition from preclinical to clinical-stage with research and GMP manufacturing capabilities. 20-year track record as executive and investor in life sciences. Previously President & CBO at Vividion Therapeutics (acquired by Bayer) where led Series B financing and $135M-upfront collaboration with Roche. 12-year affiliation with Venrock (2006-2018): as investor (2006-2013) co-founded and served as board member of Receptos Pharmaceuticals (acquired by Celgene for $7B+), led Venrock's investment in Zeltiq (acquired by Allergan for $2B+), involved in early formation of Fate Therapeutics; as entrepreneur (2013-2018) CEO/Founder of Adavium Medical (Brazilian medical device company), grew from zero to 350 employees, $40M+ sales, fully integrated R&D/manufacturing/commercial capabilities. Earlier: Director of Business Development and Head of Investor Relations at CuraGen (Nasdaq oncology biotech), consultant at Boston Consulting Group. Currently serves as Chairman of board of Vydence Medical and board member of Cytrellis Biosystems. Named "2014 Business Professional of the Year" by Brazilian government. Education: B.S. in Biology from Duke University, M.D. from Yale School of Medicine, MBA from Harvard Business School. Lead program: AlloNK® (allogeneic, off-the-shelf, non-genetically modified, cryopreserved NK cell therapy for autoimmune diseases and cancers).
+   Founded: 2019 (spin out of GC Cell, Korea)
+   IPO: July 19, 2024 (Nasdaq)
+
+8. AVBP - ARRIVENT BIOPHARMA, INC.
+   IR Website: ir.arrivent.com
+   CEO: Dr. Zhengbin (Bing) Yao, Ph.D.
+   Title: Co-Founder, Chairman, President, and Chief Executive Officer
+   Founded: April 14, 2021 (Co-founded with Stuart Lutzker)
+   Headquarters: Newtown Square, Pennsylvania
+   Bio: Co-founded ArriVent BioPharma in 2021. Leads the company's mission to identify, license, and globalize biopharma innovations to deliver medicines to cancer patients. Serves as Independent Non-Executive Director at VISEN Pharmaceuticals (Shanghai) Co., Ltd. since April 2021. Strategic focus on accessing unique drug candidates from China and emerging biotech hubs.
+
+9. BBNX - Beta Bionics, Inc.
+Company: Beta Bionics, Inc.
+IR website: https://investors.betabionics.com 
+Beta Bionics Investor Relations
+Leadership page: https://www.betabionics.com/about-us/our-team 
+Beta Bionics
+CEO: Sean Saint – President, Chief Executive Officer & Board Member
+Medical-device engineer and entrepreneur leading Beta Bionics’ commercialization of the iLet Bionic Pancreas for Type 1 diabetes, focused on autonomous insulin delivery.
+
+10. BCAX - BICARA THERAPEUTICS, INC.
+    IR Website: bicara.com (Boston, MA)
+    CEO: Dr. Claire Mazumdar (Clemon), Ph.D., M.B.A.
+    Title: Founder & Chief Executive Officer, Director
+    Appointed: January 2020
+    Tenure: 5.75 years
+    Compensation (2024): $8.92M (5.8% salary, 94.2% bonuses/stock)
+    Ownership: 0.57% direct shares
+    Bio: Founded Bicara Therapeutics in 2020 (incorporated 2018). Previously led business development and corporate strategy at Rheos Medicines, supporting global partnership with Roche. Earlier worked at Third Rock Ventures focusing on company formation and business development. Currently serves as Director at Noora Health and Relay Therapeutics (since June 2025). Education: B.S. Biological Engineering from MIT, Ph.D. in Biophysics from UCSF (with postdoctoral fellowship), MBA from Stanford GSB. Published author in rational drug design. Lead program: ficerafusp alfa, bifunctional antibody for solid tumors.
+
+11. BIOA - BioAge Labs, Inc.
+Company: BioAge Labs, Inc.
+IR website: https://ir.bioagelabs.com 
+BioAge Labs
+Company / resources: https://bioagelabs.com 
+BioAge Labs | Targeting metabolic aging
+CEO: Kristen Fortney, Ph.D. – Co-Founder & Chief Executive Officer
+Computational biologist and longevity researcher who co-founded BioAge; she leads the company’s human-first platform developing drugs that target metabolic aging and obesity-related disease.
+
+12. BOLD - [RESEARCHING]
+
+13. CAI - Caris Life Sciences, Inc.
+Company: Caris Life Sciences, Inc.
+IR website: https://investor.carislifesciences.com/investor-relations 
+investor.carislifesciences.com
+Leadership page: https://www.carislifesciences.com/about/leadership/ 
+Caris Life Sciences
+CEO: David Dean Halbert, DSc (h.c.) – Founder, Chairman & Chief Executive Officer
+Serial entrepreneur with 40+ years’ experience who founded Caris in 2008; he leads its AI-driven precision oncology platform and has overseen its growth into a multibillion-dollar diagnostics and TechBio company.
+
+14. CAMP - CAMP4 Therapeutics Corp.
+Company: CAMP4 Therapeutics Corp.
+IR website: (IR is hosted under the main site; investor materials are linked from) https://www.camp4tx.com 
+晨星
+Leadership page: Usually under “Team/Leadership” on the corporate site (e.g., “Our Team” on camp4tx.com). 
+investors.etoro.com
+CEO: Joshua (Josh) Mandel-Brehm – President & Chief Executive Officer
+Biotech executive and former VC investor who joined as founding CEO; he leads CAMP4’s RNA-based therapeutics platform targeting genetically defined diseases.
+
+15. CARL - Circle Internet Group, Inc.
+Company: Circle Internet Group, Inc.
+IR website: https://investor.circle.com 
+investor.circle.com
+Executive management page: https://investor.circle.com/governance/executive-management/default.aspx 
+investor.circle.com
+CEO: Jeremy Allaire – Co-Founder, Chairman & Chief Executive Officer
+Veteran internet/fintech entrepreneur; co-founded Circle in 2013 and leads its global stablecoin and digital-dollar infrastructure business (USDC, EURC, USYC).
+
+
+16. CBLL - [RESEARCHING]
+
+17. CGON - [RESEARCHING]
+
+18. CHA - [RESEARCHING]
+
+19. CHYM - [RESEARCHING]
+
+20. CRCL - CRCL (Circle Internet Group)
+Jeremy Allaire
+CO-FOUNDER, CHIEF EXECUTIVE OFFICER & CHAIRMAN, CIRCLE
+Jeremy is responsible for strategy, vision and operating execution at Circle. He brings more than two decades of experience building and leading global internet software platforms, including founder and CEO of Brightcove, technologist and entrepreneur in residence at General Catalyst, CTO of Macromedia, and co-founder and CTO of Allaire Corporation.
+
+21. CRGX - [RESEARCHING]
+
+22. CTNM - CONTINEUM THERAPEUTICS, INC.
+    IR Website: contineum-tx.com (San Diego, CA)
+    CEO: Carmine N. Stengone, M.S., MBA
+    Title: President, Chief Executive Officer & Director
+    Appointed: October 2018
+    Tenure: 6.83 years
+    Compensation (2024): $4.90M (12.4% salary, 87.6% bonuses/stock)
+    Ownership: 0.05% direct shares
+    Bio: Serving as CEO since October 2018 (company formerly known as Pipeline Therapeutics, renamed November 2023). Previously President & CEO of Avelas Biosciences (2014-2018), Chief Business Officer at Avelas (2012-2014), SVP Business Development at COI Pharmaceuticals (2013-2018) where he co-founded five biotech companies. VP Corporate Development at Afraxis (2010-2013), Co-founder & CEO of Araxes (2013-2014), Senior Director Business Development at Phenomix Corporation (2006-2010), positions at Anadys Pharmaceuticals (2004-2006) and Johnson & Johnson Pharmaceutical R&D (2003-2004). Currently serves on board of Kiora Pharmaceuticals (NASDAQ: KPRX). Education: MBA from Cornell Johnson Graduate School of Management (2003), M.S. Organic Chemistry from Duke University (1999), B.S. Chemistry from Wake Forest University (1997). Lead programs: PIPE-791 (LPA1R antagonist for IPF/chronic pain) and PIPE-307 (M1 receptor inhibitor for RRMS/depression).
+
+23. DDC - [RESEARCHING]
+
+24. ETOR - ETORO GROUP LTD
+    [IR website requires search]
+
+25. FIG - FIGMA, INC.
+    [IR website requires search]
+
+26. FIGR - [RESEARCHING]
+
+27. FLX - [RESEARCHING]
+
+28. GAUZ - [RESEARCHING]
+
+29. GEMI - [RESEARCHING]
+
+30. GUTS - [RESEARCHING]
+
+31. HNGE - HINGE HEALTH, INC.
+    [IR website requires search]
+
+32. HTFL - [RESEARCHING]
+
+33. IBTA - [RESEARCHING]
+
+34. KLAR - [RESEARCHING]
+
+35. KMTS - [RESEARCHING]
+
+36. KYTX - KYVERNA THERAPEUTICS, INC.
+    IR Website: ir.kyvernatx.com (Emeryville, CA)
+    CEO: Warner Biddle
+    Title: Chief Executive Officer & Director
+    Appointed: September 16, 2024
+    Age: 57
+    Tenure: ~2 months (as of late 2024)
+    Bio: Over 30 years of global pharmaceutical experience in senior commercial and franchise leadership roles. Appointed CEO September 2024, succeeding Peter Maag, Ph.D. Previously SVP, Global Head of Commercial at Kite Pharma (Gilead Company, 2020-2024) where led multiple product launches including Yescarta® and Tecartus®, driving unprecedented growth establishing Kite as world leader in cell therapy market. Selected by Gilead Chairman/CEO as interim Head of Kite (CEO), overseeing research, development, medical affairs, technical operations, corporate development and G&A functions. Before Kite, spent decade at Genentech (2013-2020) successfully leading Breast/Gynecology, Skin Cancer and Ophthalmology franchises through multiple launches including Kadcyla®, Tecentriq®, Erivedge® and Lucentis®. Earlier held senior commercial and franchise leadership roles at Novartis and GlaxoSmithKline (GSK) in Canada, UK and Switzerland. Education: Honors Degree in Commerce from University of Saskatchewan (specialization in Marketing and Statistics). Company focus: developing CAR T-cell therapies for autoimmune diseases. Lead candidate: KYV-101 (registrational trials for stiff person syndrome and myasthenia gravis).
+    IPO: February 2024 (Nasdaq)
+    Company formerly: BAIT Therapeutics, renamed October 2019
+
+37. LBRX - [RESEARCHING]
+
+38. LXEO - [RESEARCHING]
+
+39. MAZE - MAZE THERAPEUTICS, INC.
+    IR Website: ir.mazetx.com (South San Francisco, CA)
+    CEO: Dr. Jason V. Coloma, Ph.D., M.P.H., MBA
+    Title: Chief Executive Officer & Director
+    Appointed: July 2019
+    Tenure: 6.08 years
+    Compensation (2024): $5.84M (9% salary, 91% bonuses/stock)
+    Ownership: 0.94% direct shares ($5.51M)
+    Bio: Serving as CEO since July 2019, previously served as President, Chief Mazer, and Chief Operating Officer. Before Maze, was venture partner at Third Rock Ventures where instrumental in founding and launching the company. Founded Maze Therapeutics in 2019. Education: Ph.D. and M.P.H. (specific universities not disclosed), MBA. Lead programs: MZE829 and MZE782 for chronic kidney disease, developed through Maze Compass™ platform leveraging precision genetics. Company focus: renal, cardiovascular and metabolic diseases including obesity.
+    IPO: January 31, 2025 (Nasdaq) at $16/share
+    Stock Performance: +83.65% in first 3 months post-IPO
+    Cash Runway: into H2 2027
+
+40. MBX - MBX BIOSCIENCES, INC.
+    IR Website: mbxbio.com / investors.mbxbio.com (Carmel, IN)
+    CEO: P. Kent Hawryluk, MBA, M.S.
+    Title: Co-Founder, President & Chief Executive Officer, Director
+    Appointed: January 2020
+    Tenure: 5.67 years (as of  2025)
+    Compensation (2024): $2.24M (21.6% salary, 78.4% bonuses/stock)
+    Ownership: 2.08% direct shares ($16.28M)
+    Bio: Co-founded MBX Biosciences and serving as President & CEO since January 2020, board member since April 2019. Nearly 20 years as life sciences entrepreneur, leader and investor. Previously Co-founder & Chief Business Officer of Avidity Biosciences (Nasdaq: RNA, 2013-2019), leading company to raise $130M and initiate strategic partnership with Eli Lilly. Co-founder & CEO of MB2 LLC (May 2014-March 2016, acquired by Novo Nordisk October 2015), co-founded Marcadia Biotech (Chief Business Officer & VP Business Development, 2006-2011, acquired by Roche December 2010). Director of Gemphire Therapeutics (February 2015-February 2019). Partner at Twilight Venture Partners (seed and early-stage life science VC fund) since January 2003. Education: B.A. from Princeton University, MBA from Kellogg School of Management at Northwestern University, M.S. in Biology from Purdue University. Company focus: precision peptide therapies for endocrine and metabolic disorders based on proprietary PEP™ platform.
+    IPO: 2024 (Nasdaq)
+
+41. MNTN - [RESEARCHING]
+
+42. MTSR - METSERA, INC.
+    [IR website requires search]
+
+43. NAMI - [RESEARCHING]
+
+44. NIPG - [RESEARCHING]
+
+45. NTSK - [RESEARCHING]
+
+46. OMDA - [RESEARCHING]
+
+47. PONY - [RESEARCHING]
+
+48. RAPP - RAPPORT THERAPEUTICS, INC.
+    IR Website: investors.rapportrx.com (Boston and San Diego)
+    CEO: Abraham N. Ceesay (also known as Abe), MBA
+    Title: Chief Executive Officer, President, Treasurer & Director
+    Appointed: February 2023
+    Tenure: 2.25 years
+    Compensation (2024): $9.84M (5.9% salary, 94.1% bonuses/stock)
+    Ownership: 2.16% direct shares ($8.09M)
+    Bio: Nearly 20 years of biopharmaceutical industry experience. Previously President of Cerevel Therapeutics (May 2021-February 2023). Before that, CEO of Tiburio Therapeutics where built fully integrated company leading to IND enablement for rare neuroendocrine tumor. Prior: Chief Operating Officer at scPharmaceuticals, Head of Commercial at Keryx Biopharmaceuticals, VP of Marketing at Ironwood Pharmaceuticals, roles of increasing responsibility at Sanofi (formerly Genzyme). Currently serves as Chairman of the Board for Life Science Cares and on Board of Trustees at Museum of Science in Boston. Education: Bachelor's degree from Ithaca College, MBA from Suffolk University's Sawyer School of Management. Lead program: RAP-219 for focal epilepsy, peripheral neuropathic pain, and bipolar disorder. Company formerly known as Precision Neuroscience NewCo, Inc., renamed October 2022.
+    IPO: 2024 (Nasdaq)
+    Cash: $285.4M (Q1 2025), runway through end of 2026
+
+49. RBRK - [RESEARCHING]
+
+50. RDDT - REDDIT, INC.
+    IR Website: investor.redditinc.com
+    CEO: Steve Ladd Huffman (commonly known as Steve Huffman)
+    Title: Co-Founder and Chief Executive Officer
+    Founded: 2005 (Co-founded with Alexis Ohanian)
+    Headquarters: San Francisco, California
+    IPO: March 2024 at $34/share
+    Bio: Co-founded Reddit in 2005 with Alexis Ohanian. Has led the company to become one of the most visited websites globally with over 400 million weekly users across 100,000+ communities. Under his leadership, Reddit achieved profitability in the back half of 2023 and went public in March 2024. Known for building the platform around authentic conversations and community engagement.
+
+51. SEPN - [RESEARCHING]
+
+52. SI - SILA REALTY TRUST, INC.
+    [IR website requires search]
+
+53. SION - SIONNA THERAPEUTICS, INC.
+    IR Website: investors.sionnatx.com (Waltham, MA)
+    CEO: Michael Cloonan (also known as Mike), MBA
+    Title: President & Chief Executive Officer
+    Appointed: May 2021
+    Tenure: 4.42 years
+    Compensation (2024): $3.73M (13.6% salary, 86.4% bonuses/stock)
+    Ownership: 1.24% direct shares ($15.66M)
+    Bio: Serving as President & CEO since May 2021 when company had 12 people. Advisor at RA Capital Management since February 2022. Independent Director at bluebird bio, Inc. (since June 20, 2024). Previously led growth from small startup to public company. Known for team-building expertise and evangelizing company vision with investors and stakeholders. Education: MBA. Company focus: revolutionizing cystic fibrosis treatment by developing novel medicines that normalize CFTR protein function through NBD1 stabilization. Lead programs: SION-719 and SION-451 (NBD1 stabilizers in Phase 1/2a), plus complementary CFTR modulators. Company formerly known as Sling Therapeutics, renamed July 2021.
+    IPO: 2024/2025 (Nasdaq)
+    Market Cap: $1.74B
+
+54. STUB - [RESEARCHING]
+
+55. TEM - [RESEARCHING]
+
+56. TTAN - [RESEARCHING]
+
+57. UPB - UPSTREAM BIO, INC.
+    IR Website: investors.upstreambio.com (Waltham, MA)
+    CEO: E. Rand Sutherland, M.D., M.P.H.
+    Title: Chief Executive Officer & Director
+    Appointed: April 2024
+    Tenure: ~1.5 years (as of late 2025)
+    Compensation (2024): $9.24M
+    Bio: More than 25 years of business and clinical experience. Appointed CEO in April 2024. Most recently CEO of Seeker Biologics. Before that, President of Translate Bio prior to its acquisition by Sanofi. Previously held numerous R&D and medical affairs roles at Sanofi, providing leadership for development of novel medicines in Immunology and Rare Diseases, and leading medical affairs globally for Specialty Care business unit. Before biopharma industry, was Professor of Medicine at University of Colorado and Chief of Pulmonary and Critical Care Medicine at National Jewish Health in Denver. Currently serves as Independent Director of Krystal Biotech (since January 2022) and Vanqua Bio. Education: M.D., M.P.H. Company focus: developing verekitug, only known TSLP receptor antagonist in clinical development for severe respiratory disorders (CRSwNP, severe asthma, COPD).
+    IPO: 2024 (Nasdaq)
+
+58. VIA - [RESEARCHING]
+
+59. VOYG - VOYAGER THERAPEUTICS, INC.
+    [IR website requires search]
+
+60. WRD - [RESEARCHING]
+
+61. XCH - [RESEARCHING]
+
+62. YB - [RESEARCHING]
+
+63. YMT - [RESEARCHING]
+
+64. ZBIO - ZENAS BIOPHARMA, INC.
+    IR Website: investors.zenasbio.com (Waltham, MA)
+    CEO: Leon Oliver Moulder, Jr. (known as Lonnie), MBA
+    Title: Founder, Chief Executive Officer & Chairman of the Board
+    Founded: 2019
+    CEO since: August 2023
+    Chairman since: 2020
+    Tenure: 2.17 years as CEO
+    Compensation (2024): $20.00M (2.1% salary, 97.9% bonuses/stock)
+    Ownership: 0.72% direct shares ($7.93M)
+    Bio: Founder of Zenas BioPharma (2019). Extensive biopharmaceutical executive experience. Also Founder and Managing Member of Tellus BioVentures, LLC (early-stage life sciences investment fund, since March 2019). Previously co-founded TESARO, Inc. (fully-integrated oncology biopharmaceutical company), served as CEO and Director (March 2010-January 2019 acquisition by GlaxoSmithKline). Before that, President, CEO & Vice Chairman of Abraxis BioScience Inc. (2009-2010, acquired by Celgene 2010). Vice Chairman of Eisai Corporation of North America following Eisai's acquisition of MGI PHARMA where served as President, CEO and Board member. Earlier was founding management team member of Eligix Inc. (venture-stage biotech). Began career as clinical pharmacist followed by 17-year career at predecessor companies of Sanofi, starting at Marion Laboratories. Board service: Zai Lab (Nasdaq: ZLAB), Helsinn Group, Trevena Inc. (Nasdaq: TRVN), Chairman of Dianthus Therapeutics (Nasdaq: DNTH), plus several Tellus portfolio companies. Temple University Trustee and Chair of Temple University Japan. Council Member for University of Chicago Booth School of Business and Polsky Center for Entrepreneurship and Innovation. Education: B.S. Pharmacy from Temple University, MBA from University of Chicago Booth School of Business (1997). Lead programs: obexelimab (bifunctional monoclonal antibody for autoimmune diseases), orelabrutinib (BTK inhibitor for MS).
+    IPO: 2024 (Nasdaq)
+    Company formerly: Zenas BioPharma (Cayman) Limited, renamed August 2023
+
+65. ZKH - [RESEARCHING]
+
+═══════════════════════════════════════════════════════════════════════════
+HOW TO COMPLETE THIS DATABASE:
+═══════════════════════════════════════════════════════════════════════════
+
+STEP-BY-STEP PROCESS FOR EACH COMPANY:
+
+1. Search Google: "[TICKER] [Company Name] investor relations"
+   Example: "AARD Aardvark Therapeutics investor relations"
+
+2. Click on the company's IR website (usually ir.[company].com or [company].com/investors)
+
+3. Navigate to one of these sections:
+   - "Leadership" or "Leadership Team"
+   - "Management" or "Management Team"
+   - "Governance" → "Management"
+   - "About" → "Leadership"
+
+4. Find the CEO's profile page
+
+5. Extract:
+   - Full name and credentials (M.D., Ph.D., etc.)
+   - Official title
+   - Biography (typically 2-4 paragraphs covering):
+     * Years of experience
+     * Previous positions/companies
+     * Education
+     * Key achievements
+
+6. Record the source URL for verification
+
+TYPICAL IR WEBSITE PATTERNS:
+- ir.[company].com/leadership
+- [company].com/investors/leadership
+- [company].com/about/management
+- investors.[company].com/governance/management
+
+TIME ESTIMATE:
+- 3-5 minutes per company
+- Total: 3-5 hours for all 65 companies
+
+═══════════════════════════════════════════════════════════════════════════
+
+============================================================
+19. BOLD - Boundless Bio, Inc.
+============================================================
+CEO: Zachary (Zach) Hornby
+Appointed: May 2019
+Tenure: ~6.42 years
+Compensation: $6.05M total (9.8% salary, 90.2% bonuses/stock)
+Ownership: 1.15% ($315.38K)
+
+Background:
+Founded Boundless Bio. Previously Chief Operating Officer and Chief Financial Officer at Ignyta (acquired by Roche/Genentech). At Ignyta, led operational team that developed Rozlytrek, which is globally approved and commercialized for patients with NTRK+ solid tumors and ROS1+ non-small cell lung cancer.
+
+Current Positions:
+- Director at Radionetics Oncology, Inc. (since October 2021)
+- Director at Novome Biotechnologies, Inc. (since May 2021)
+
+Focus: Developing ecDNA-directed therapeutics (ecDTx) for oncogene amplified cancers
+Lead Programs: BBI-355 (Phase 1/2 POTENTIATE trial), BBI-825, BBI-940 (IND submission H1 2026)
+
+IR: investors.boundlessbio.com
+Location: San Diego, CA
+IPO: 2024 Nasdaq (ticker: BOLD)
+Company: Founded 2018 by ARCH Venture Partners
+
+============================================================
+20. LUNG - Pulmonx Corporation  
+============================================================
+CEO: Glen French (current)
+Appointed (reappointment): October 27, 2025 (immediately effective)
+Previous tenure: Approximately 9 years (until March 2024)
+Background: 25+ years experience in interventional pulmonology
+
+Recent Management Transition:
+- Steve Williamson served as President & CEO from March 15, 2024 to October 27, 2025
+- Williamson's compensation: $5.33M (during his tenure)
+- Williamson brought 30 years medical device experience, previously Chief Commercial Officer of Outset Medical, Worldwide President for Peripheral Intervention business at CR Bard/BD, SVP & GM GYN Surgical Products at Hologic
+- Derrick Sung appointed COO and CFO effective November 3, 2025
+
+Glen French Background:
+- Originally CEO from founding through March 2024
+- During first tenure: Led company through FDA approval, IPO, global expansion
+- Managed launch of Zephyr Valve in 25+ countries
+- Returned as CEO October 2025 after brief retirement
+
+Products: Zephyr® Endobronchial Valve, Chartis® Pulmonary Assessment System, StratX® Lung Analysis Platform, LungTraX™ Platform
+Indication: Severe emphysema/COPD treatment
+
+IR: investors.pulmonx.com
+Location: Redwood City, CA (headquarters at 700 Chesapeake Drive)
+IPO: October 4, 2017 (Nasdaq: LUNG)
+Founded: December 1995 as Pulmonx (reincorporated Delaware 2013)
+
+============================================================
+21. PRAX - Praxis Precision Medicines, Inc.
+============================================================
+CEO: Marcio Silva De'Souza (Marcio Souza), MBA
+Appointed: April 2020
+Tenure: ~4.83 years
+Compensation: $2.12M total (29.5% salary, 70.5% bonuses/stock)
+Ownership: 0.087% ($652.48K)
+
+Background:
+Joined Praxis April 2020 as President & CEO. Previously President & CEO Principia Biopharma (until Sanofi acquisition October 2020). Before: President & CEO Talima Therapeutics (2007-2011). Spent 1998-2007 at Genentech (VP Immunology Sales and Marketing, built/led Commercial Development organization, led Cardiovascular Marketing). Earlier: Eli Lilly (sales, management, global marketing, business development).
+
+Current Positions:
+- Board: Prelude Therapeutics Inc.
+- Board: Sardona Therapeutics (Independent Member from May 2025, previously Chairperson)
+- Board: 89bio
+- Emerging Companies Section Governing Board, Biotechnology Innovation Organization
+
+Education: Ph.D. (field not specified)
+
+Company:Founded by premier investors led by Blackstone Life Sciences (via prior Clarus funds 2016), Novo Holdings, Vida Ventures, Eventide. Launched with $100M+ financing.
+
+Leadership Team:
+- Bernard Ravina, M.D., M.S., Chief Medical Officer
+- Megan Sniecinski, Chief Business Officer (joined December 2021, previously CBO at BioCryst Pharmaceuticals, SVP at PTC Therapeutics)
+- Alyssa Wyant, Chief Regulatory and Quality Officer
+- Karl Hansen, Ph.D., Chief Technical Operations Officer
+- Steven Petrou, Ph.D., Co-founder & Chief Scientific Officer (previously Institute Director, Florey Institute of Neuroscience and Mental Health)
+
+Focus: Translating genetic insights into therapies for CNS disorders via Cerebrum™ (small molecule) and Solidus™ (ASO) platforms
+Lead Programs: Ulixacaltamide (Phase 3 for essential tremor), Vormatrigine (focal onset epilepsy), Relutrigine (developmental and epileptic encephalopathies), Elsunersen (SCN2A-DEE), PRAX-080 (PCDH19-related epilepsy)
+
+IR: investors.praxismedicines.com
+Location: Boston, MA
+IPO: 2020 Nasdaq (PRAX)
+Market Performance: Stock up 343% over 6 months (as of November 2025), trading at $169.80, Market Cap: $4.27B
+
+============================================================
+22. RYTM - Rhythm Pharmaceuticals, Inc.
+============================================================
+CEO: David P. Meeker, M.D.
+Appointed: July 2020
+Tenure: ~5.25 years
+Compensation: $14.66M total (5% salary, 95% bonuses/stock)
+Ownership: 0.3% ($22.30M)
+
+Background:
+Board member since November 2015, Chairman since April 2017. Most recently President & CEO KSQ Therapeutics (2017-2020). Executive Vice President & Head of Sanofi Genzyme (specialty-care global business unit focused on rare diseases, multiple sclerosis, oncology, immunology) from 2012-2017. At Genzyme (1994-2017): joined as Medical Director, served as VP Medical Affairs, COO, and CEO. Led commercialization and global market access, managed launches of Aldurazyme®, Fabrazyme®, Myozyme®. Prior: Director of Pulmonary Critical Care Fellowship at Cleveland Clinic, Assistant Professor of Medicine at Ohio State University.
+
+Current Positions:
+- Chairman, President & CEO Rhythm Pharmaceuticals
+- Chairman Trevi Therapeutics, Inc. (since 2017)
+- Non-Executive Chairman Pharvaris NV
+- Chairman Pharvaris GmbH (since 2021)
+- Director Biotechnology Innovation Organization
+- Director New England Healthcare Institute
+- Director Prize4Life, Inc.
+- Independent Director Turmeric Acquisition Corp.
+- Member Advisory Board Mitotherapeutix, LLC
+
+Former Positions:
+- MyoKardia, Inc. Independent Director (2017-2020)
+- Savient Pharmaceuticals, Inc. Independent Director (2013-2014)
+- Penwest Pharmaceuticals Co. Director (2007-2010)
+
+Education:
+- M.D., University of Vermont Medical School
+- Advanced Management Program, Harvard Business School
+- Authored 40+ articles and multiple book chapters
+
+Focus: Commercial-stage company developing therapies for rare neuroendocrine diseases
+Lead Product: IMCIVREE® (setmelanotide) - approved for POMC, PCSK1, LEPR deficiency obesity, Bardet-Biedl and Alström syndrome
+Pipeline: LB54640, RM-718 (MC4R agonists), preclinical small molecules for congenital hyperinsulinism
+
+IR: ir.rhythmtx.com (rhythmpharmaceuticals.gcs-web.com)
+Location: 222 Berkeley Street, 12th Floor, Boston, MA 02116
+Founded: February 2008 (formerly Rhythm Metabolic, Inc., renamed October 2015)
+IPO: October 4, 2017 (Nasdaq: RYTM)
+Recent Performance: Q3 2025 revenue $130.13M (68% increase YoY), analysts' average price target $117 (21.81% upside)
+
+============================================================
+23. SRRK - Scholar Rock Holding Corporation
+============================================================
+CEO: David L. Hallal
+Appointed: April 27, 2025
+Tenure: ~7 months
+Former Role: Chairman of Board since July 2017
+
+Background:
+30-year veteran in biopharmaceutical industry. Co-founder and former Chairman & CEO of ElevateBio (cell and gene therapy company), now serves as Executive Chairman. Spent 10+ years at Alexion Pharmaceuticals as CEO, COO, and Chief Commercial Officer (2006-2016), transforming company from pre-commercial stage to $3B+ annual revenues. Led transition from single-product to multi-product enterprise, achieved S&P500 inclusion. Prior: nearly 20 years at Amgen, Biogen, and OSI Eyetech in executive/senior leadership roles. At Amgen: leadership roles focused on Epogen®, Neupogen®, Neulasta®, Aranesp®. At Biogen: led immunology sales team. VP Sales at OSI Eyetech.
+
+Current Positions:
+- CEO & Chairman Scholar Rock (since April 2025)
+- Executive Chairman ElevateBio Board of Directors
+- Chairman iTeos Therapeutics (Nasdaq: ITOS)
+- Chairman Kalaris Therapeutics
+- Independent Director Seer Biosciences
+- Advisor at MPM Capital
+
+Education: B.A. Psychology, University of New Hampshire
+
+Predecessor: Jay Backstrom, M.D., M.P.H. (continues as strategic advisor)
+
+New Leadership Team (appointed April 2025):
+- Akshay Vaishnaw, M.D., Ph.D., President of R&D (formerly President of Alnylam, Board member since 2019)
+- R. Keith Woods, Chief Operating Officer (formerly COO of argenx)
+- Vikas Sinha, Chief Financial Officer (formerly CFO of Alexion and ElevateBio)
+
+Focus: Late-stage biopharmaceutical developing treatments for serious diseases via TGFβ superfamily biology platform
+Lead Program: Apitegromab (myostatin activation inhibitor) - Phase 3 for spinal muscular atrophy (SMA), FDA BLA priority review with PDUFA date September 22, 2025, expanding to DMD and FSHD
+Pipeline: SRK-181 (Phase 1 for cancer), SRK-439
+
+IR: investors.scholarrock.com
+Location: 301 Binney Street, 3rd Floor, Cambridge, MA 02142
+Founded: 2012
+IPO: 2024 Nasdaq (SRRK)
+Market Cap: $3.1B (as of November 2025, trading at $32.81)
+Cash Position: $295M (Q2 2025), expected to fund operations into 2027
+
+============================================================
+24. TVTX - Travere Therapeutics, Inc.
+============================================================
+CEO: Eric M. Dube, Ph.D.
+Appointed: January 2019
+Tenure: ~6.92 years
+
+Background:
+President & CEO since January 2019. Board member since appointment. Previously President & Head of North America at ViiV Healthcare (led commercialization of pipeline assets, oversaw governance of primary care, managed markets, patient advocacy). Before: SVP & Head, Global Respiratory Franchise at GlaxoSmithKline. SVP Respiratory Japan at GSK. Earlier career: positions of increasing responsibility at GSK including senior leadership in Strategy, Planning & Operations, Oncology, Managed Markets, Marketing.
+
+Personal: Rare cancer survivor (diagnosed at age 30, now in remission). Co-founder OUTBio San Diego (largest LGBTQ biotech professionals group in area). Named one of "OUTstanding 100 LGBT+ Executives". Named CEO of the Year 2023 by San Diego Business Journal (Medium-Size Company Category).
+
+Current Positions:
+- Board of Directors: Biotechnology Innovation Organization (BIO)
+- Board of Directors: Reneo Pharmaceuticals, Inc.
+
+Education:
+- B.S. Biopsychology, Santa Clara University
+- M.A. Psychology, Cornell University
+- Ph.D. Psychology, Cornell University (studies focused on how culture, gender, ethnicity influenced resilience in LGBTQ community)
+
+Focus: Identifying, developing, delivering therapies for rare kidney and metabolic diseases
+Lead Products: 
+- FILSPARI® (sparsentan) - once-daily oral medication for IgA Nephropathy (IgAN), received FDA accelerated approval February 2023, Q3 2025 US net sales $90.9M (155% YoY growth)
+- Thiola and Thiola EC (tiopronin tablets) - for cystinuria
+Pipeline:
+- Sparsentan - Orphan Drug Designation for FSGS (Phase 3 completed, did not achieve primary endpoint but landmark trial)
+- Pegtibatinase (TVT-058) - Phase 2 enzyme replacement therapy for classical homocystinuria
+
+IR: ir.travere.com
+Location: San Diego, CA
+Founded: 2008 as Retrophin, Inc., renamed Travere Therapeutics November 2020
+IPO: Pre-2019 (already public when Dube joined)
+Recent Performance: Q3 2025 revenue $164.9M (exceeded consensus $105.57M), adjusted EPS $0.59 (vs. expected loss of $0.29), stock up 72% YTD, trading near 52-week high of $30.97
+
+============================================================
+25. VERA - Vera Therapeutics, Inc.
+============================================================
+CEO: Marshall W. Fordyce, M.D.
+Founded Company: 2016
+Appointed CEO: May 2016
+Tenure: ~9.33 years
+Compensation: $5.65M total (10.9% salary, 89.1% bonuses/stock)
+Ownership: 0.45% ($7.51M)
+
+Background:
+Founder, President, CEO & Director since May 2016. 15+ years experience leading teams in drug discovery, development, clinical translation, commercialization. Before Vera: Founder & CEO Trucode Gene Repair, Inc. (gene-editing company). Previously Entrepreneur in Residence at Kleiner Perkins Caufield and Byers (2016). Senior Director of Clinical Research at Gilead Sciences (contributed to 7 new drug approvals, Project Lead for Gilead's TAF/GENVOYA development program). Chief Resident at NYU Bellevue. Two years as translational research fellow at Rockefeller University.
+
+Current Positions:
+- Board of Directors & Treasurer: Albert & Mary Lasker Foundation
+
+Education:
+- B.A., Harvard University
+- M.D., Harvard Medical School
+- Subspecialty training in infectious disease, Columbia University Vagelos College of Physicians and Surgeons
+- Internal Medicine training, NYU Bellevue
+
+Key Leadership Appointments:
+- Sean Grant, MBA, Chief Financial Officer (appointed July 2021, previously VP Corporate Strategy & Business Development at CareDx)
+- David L. Johnson, Chief Operating Officer (appointed July 2024, extensive operational/commercial experience in biotech)
+
+Focus: Late clinical-stage biotech developing treatments for serious immunological diseases
+Lead Program: Atacicept - fusion protein blocking BAFF and APRIL, Phase 2b/3 for IgA nephropathy (IgAN) and lupus nephritis. Expected 96-week data from Phase 2b ORIGIN trial 2024, primary endpoint results from pivotal Phase 3 H1 2025
+Pipeline: MAU868 (monoclonal antibody for BK virus, Phase 2 completed), VT-109 (novel BAFF/APRIL dual-inhibitor)
+
+IR: veratherapeutics.gcs-web.com (ir.veratx.com)
+Location: Brisbane, CA
+Founded: 2016
+IPO: 2021 Nasdaq (VERA)
+Market Cap: $1.34B (as of July 2025), trading at $21.09
+Employees: 192 total
+
+============================================================
+
+RESEARCH SESSION UPDATE:
+Date: November 26, 2025
+New Profiles Added: 7 companies (BOLD, LUNG, PRAX, RYTM, SRRK, TVTX, VERA)
+Total Profiles Completed: 25 of 65 companies (38.5%)
+Searches Used: 15 of available
+Progress: Added detailed biographical data, compensation information, career histories, board memberships, education, company backgrounds, IPO information
+
+
+============================================================
+26. CGON - CG Oncology, Inc.
+============================================================
+CEO: Arthur Kuan, M.S.
+Chairman & CEO since December 2023
+CEO & Director since September 2016
+Previously COO July 2015-September 2016
+
+Background:
+Early investor in CG Oncology, joined full-time in 2014. Founded member of Ally Bridge Group (healthcare-focused investment group) from July 2013-July 2015. Previously Analyst at Themes Investment Management Ltd (February 2013-June 2015) and Analyst at DNV Capital (July 2012-February 2013). IP Commercialization Strategy Committee Member at Moffitt Cancer Center (November 2017-January 2024). Currently Board Member of The Lustgarten Foundation (appointed June 2025).
+
+Personal: Father died from cancer, which fuels his passion for developing effective cancer therapies. Featured on Forbes 30 Under 30 list in 2020. Minor planet 24347 Arthurkuan named in his honor (discovered January 2000 by MIT Lincoln Laboratory's Near-Earth Asteroid Research program). Multilingual with proficiency in Mandarin.
+
+Education:
+- M.S. in Biotechnology, Johns Hopkins University
+- B.A. in Molecular Biology (some sources say Biology), University of Pennsylvania
+
+Company: CG Oncology (formerly Cold Genesys, Inc., renamed June 2020)
+Founded: 2010
+Location: Irvine, CA
+IPO: January 2024 (Nasdaq: CGON), raised $380M - largest IPO for OC-based firm in three years
+Focus: Late-stage clinical biopharmaceutical developing bladder-sparing therapeutic for bladder cancer
+Lead Program: Cretostimogene grenadenorepvec - oncolytic immunotherapy for non-muscle invasive bladder cancer (NMIBC), Phase 3 BOND-003 trial, BLA initiated 2025
+
+IR: ir.cgoncology.com
+
+============================================================
+27. LXEO - Lexeo Therapeutics, Inc.
+============================================================
+CEO: R. Nolan Townsend
+Appointed: January 2020
+Board Member: Since January 2020
+Also: Director of Arbor Biotechnologies, Inc. (since November 2023)
+
+Background:
+Prior to Lexeo, served as President, Pfizer Rare Disease for North America region and President, Pfizer Rare Disease for International markets, overseeing overall strategy, cross-functional organization and operating budget in those regions. Over a decade of experience with Pfizer, first joining in Corporate Finance and subsequently in roles of increasing responsibility across Corporate Finance, Corporate Strategy, Operations, Marketing, General Management and Commercial leadership in Pfizer's New York headquarters, Asia, Africa/Middle East and Europe.
+
+Company: Lexeo Therapeutics, Inc.
+Founded: 2017
+Founder: Ronald G. Crystal (Chief Scientific Advisor & Board Observer)
+Location: New York, NY
+IPO: Pre-2020 (Nasdaq: LXEO)
+Focus: Clinical-stage genetic medicine company focused on hereditary and acquired diseases with high unmet need, particularly genetically defined cardiovascular diseases and APOE4-associated Alzheimer's disease
+Technology: Adeno-associated virus (AAV)-mediated therapies developed at Weill Cornell Medicine's Department of Genetic Medicine
+Pipeline: LX1001 (APOE4-associated Alzheimer's - Phase 1/2), LX2006 (Friedreich's ataxia cardiomyopathy), LX2022 (hypertrophic cardiomyopathy), GBA1 gene replacement for Parkinson's
+
+IR: ir.lexeotx.com
+
+============================================================
+28. VOYG - Voyager Therapeutics, Inc.
+============================================================
+CEO: Alfred W. Sandrock, Jr., M.D., Ph.D.
+Appointed: March 2022
+Board Member: Since February 2022
+Preceded: Michael Higgins (Interim CEO June 2021-March 2022, continues as Chairman of Board)
+
+Background:
+23 years at Biogen where he identified and developed novel therapies for a variety of serious diseases. Served in positions of increasing responsibility, culminating as Executive Vice President of Research and Development. Also served as Chief Medical Officer and held seat on Biogen executive committee. Led discovery, development, and regulatory approval of numerous medicines including: ADUHELM™ (Alzheimer's), PLEGRIDY® (multiple sclerosis), SPINRAZA® (spinal muscular atrophy - first drug approved for SMA), TECFIDERA® (MS), and TYSABRI® (MS). Also led development for AVONEX. Professor at Harvard Medical School. Formerly on board of Disarm Therapeutics, Inc. and Chairman at PhRMA Foundation. Member of American Academy of Neurology. Currently Board Member at Mass General Brigham Innovation Team.
+
+Education:
+- B.A. in Human Biology, Stanford University
+- M.D., Harvard Medical School
+- Ph.D. in Neurobiology, Harvard University
+
+Company: Voyager Therapeutics, Inc.
+Founded: 2013
+Founder: Krystof Bankiewicz
+Location: Lexington, MA (75 Hayden Avenue)
+IPO: Pre-2021 (Nasdaq: VYGR)
+Focus: Biotechnology company dedicated to leveraging genetics to treat neurological diseases
+Technology: TRACER™ (Tropism Redirection of AAV by Cell-type-specific Expression of RNA) AAV capsid discovery platform for high brain penetration with genetic medicines following IV dosing
+Pipeline: Four wholly-owned Alzheimer's disease programs (VY7523 anti-tau antibody, VY1706 tau silencing gene therapy, APOE program, vectorized anti-amyloid antibody), VY-FXN01 (Friedreich's ataxia), GBA1 gene replacement (Parkinson's), SOD1 silencing (ALS)
+Partnerships: Alexion/AstraZeneca Rare Disease, Novartis Pharma AG ($1.7B deal), Neurocrine Biosciences, Pfizer, Transition Bio
+
+IR: ir.voyagertherapeutics.com
+
+============================================================
+
+SESSION 4 UPDATE - November 26, 2025:
+Added 3 profiles (CGON, LXEO, VOYG)
+Total Completed: 28 of 65 companies (43.1%)
+Remaining: 37 companies
+
+
+29. JANX - Janux Therapeutics, Inc.
+CEO: David Campbell, Ph.D. (appointed June 2017)
+Background: Founded Janux in 2017 to develop tumor-specific cancer therapeutics. More than 25 years of executive management, company creation, and successful partnering experience. Prior to Janux, served as CSO or CEO of multiple drug discovery companies that created clinical programs and partnerships with large pharma: Sitari (celiac disease) partnered with GSK, Afraxis (oncology) partnered with Genentech, RQx (anti-bacterial) partnered with Genentech. Before that, Senior Vice President of Drug Discovery and Development at Phenomix, guiding discovery/development of clinical programs for diabetes and hepatitis C. Earlier career: positions of increasing responsibility at Affymax (biotech) and Bayer Pharmaceuticals (large pharma). As director at Bayer, his group contributed to multiple clinical programs in oncology, obesity, and diabetes. Board member of Puma Biotechnology and Cartography Biosciences.
+Education: Ph.D. Organic Chemistry Cornell University (1985-1990), B.S. Chemistry Harvey Mudd College. Post-doctoral training under Dr. Peter Schultz at UC Berkeley.
+Company: Founded June 2017, San Diego CA, Nasdaq: JANX
+Focus: Clinical-stage biopharmaceutical company developing novel immunotherapies via proprietary Tumor Activated T Cell Engager (TRACTr) and Tumor Activated Immunomodulator (TRACIr) platforms
+Pipeline: JANX007 (PSMA-TRACTr for prostate cancer, Phase 1b expansion), JANX008 (EGFR-TRACTr for solid tumors)
+IR: investors.januxrx.com
+
+30. KURA - Kura Oncology, Inc.
+CEO: Troy E. Wilson, Ph.D., J.D. (co-founder, appointed August 2014)
+Background: Serial entrepreneur with over 25 years building exceptional companies. Co-founded Kura Oncology in August 2014, serving as President, CEO and Chairman since inception. Also co-founded Avidity Biosciences (NASDAQ: RNA) and serves as Chairman since its inception in 2013. Previously co-founded and served as President and CEO of Araxes Pharma LLC and Wellspring Biosciences, Inc., where his team pioneered discovery and development of small molecule inhibitors of KRAS oncoprotein. Earlier in career, co-founded and served as President and CEO of Intellikine, a private biopharmaceutical company acquired by Takeda Pharmaceutical Company Limited in 2011 for up to $310 million. Co-founded and served as Chief Business Officer of Ambrx (NASDAQ: AMAM), acquired by Johnson & Johnson Innovative Medicines in 2024. Earlier experience includes VP Business Development and General Counsel at GNF, President and Co-Founder at Wildcat Discovery Technologies. Serves as director of Puma Biotechnology and Cartography Biosciences. Named EY Entrepreneur Of The Year 2025 Pacific Southwest Award winner.
+Education: J.D. Law New York University, Ph.D. Bioorganic Chemistry University of California Berkeley, B.A. Biophysics University of California Berkeley
+Company: Founded August 2014, San Diego CA (with Boston office), Nasdaq: KURA, IPO November 2015
+Focus: Clinical-stage biopharmaceutical company committed to precision medicines for cancer treatment, small molecule drug candidates targeting cancer signaling pathways
+Pipeline: Ziftomenib (menin inhibitor, first and only therapy with FDA Breakthrough Therapy Designation for R/R NPM1-mutant AML, NDA accepted with November 30, 2025 PDUFA date, FDA approval granted), KO-2806 (darlifarnib, next-gen FTI for HRAS-mutant solid tumors and combination therapies), tipifarnib (FTI for solid tumors and hematologic indications)
+Partnership: Global strategic collaboration with Kyowa Kirin (November 2024) to develop/commercialize ziftomenib
+IR: ir.kuraoncology.com
+
+31. KYMR - Kymera Therapeutics, Inc.
+CEO: Nello Mainolfi, Ph.D. (co-founder, promoted to CEO November 2019)
+Background: Co-founded Kymera with Bruce Booth and Atlas Venture in 2016. Initially served as President and Chief Scientific Officer before promotion to President and CEO in November 2019. Under his leadership, Kymera has advanced novel modality, built pipeline of multiple clinical stage first-in-class degrader programs across various indications, developed best-in-class drug discovery platform, raised over $1 billion in capital, and formed strategic collaborations with major biopharmaceutical companies. Began career at Novartis Institutes for Biomedical Research, leading cross-functional teams that identified several novel investigational medicines including first-in-class FDA approved factor B inhibitor iptacopan. Before founding Kymera, was Entrepreneur in Residence at Atlas Venture. Also led discovery research at cancer metabolism startup Raze Therapeutics (Senior Director & Head-Drug Discovery 2015-2016). Has authored more than 100 publications and patents. Also serves as Advisor at Atlas Venture since 2018.
+Education: Ph.D. Organic/Organometallic Synthetic Chemistry Imperial College London (2001-2004), Post-doctoral training at The Scripps Research Institute California, B.S. Queen Mary University of London
+Company: Founded 2015 (incorporated), Watertown MA, Nasdaq: KYMR, IPO 2020
+Focus: Clinical-stage biopharmaceutical company pioneering targeted protein degradation (TPD) to develop oral small molecule degrader medicines for immunological diseases via proprietary Pegasus™ platform
+Pipeline: IRAK4 (Phase 2 for hidradenitis suppurativa and atopic dermatitis), STAT6 (type 2 inflammation in allergic/atopic diseases), TYK2 (autoimmune and inflammatory diseases)
+Partnership: Strategic alliance with Sanofi for IRAK4 drug candidates outside oncology/immuno-oncology fields
+IR: investors.kymeratx.com
+
+
+32. LEGN - Legend Biotech Corporation
+CEO: Ying Huang, Ph.D. (appointed CEO November 2020, previously interim CEO from September 2020)
+Background: Joined Legend Biotech as Chief Financial Officer in July 2019, appointed interim CEO September 2020 following founder's leave, made permanent CEO November 2020. Prior to Legend Biotech, had over 9 years of R&D experience at major pharma and 12 years as biotechnology analyst on Wall Street. Was Managing Director and Head of Biotech Equity Research at Bank of America Merrill Lynch, recognized by Institutional Investor survey as top-ranked biotechnology analyst. Previously held posts at Wachovia, Credit Suisse, Gleacher and Barclays in equity research. Besides investment research, conducted due diligence for numerous successful IPOs and follow-on offerings in biotech sector. Before Wall Street career, was Principal Scientist at Schering-Plough (now Merck & Co.) in Department of Chemical Research, focusing on small molecule drug discovery in cardiovascular and central nervous system therapeutic areas. Co-author of multiple patents and peer-reviewed publications. Played central role during company's crossover round financing and IPO (among largest biotech IPOs of 2020). Director of Legend Biotech since December 2021. Also board member of Quanta Therapeutics and Third Arc Bio.
+Education: Ph.D. Bio-organic Chemistry Columbia University. Also studied at Columbia Business School and in Special Class for the Gifted Young at University of Science and Technology of China
+Company: Founded 2017 (as subsidiary of GenScript Biotech Corporation), Somerset NJ, Nasdaq: LEGN, IPO June 2020
+Focus: Global biotechnology company with 2,800+ employees (largest standalone cell therapy company) developing and commercializing novel therapies for life-threatening diseases via autologous and allogeneic CAR-T and NK cell-based immunotherapy
+Product: CARVYKTI® (ciltacabtagene autoleucel; cilta-cel), FDA-approved one-time CAR-T cell therapy for relapsed or refractory multiple myeloma, co-developed and marketed with Johnson & Johnson/Janssen Biotech
+IR: investors.legendbiotech.com
+
+33. NRIX - Nurix Therapeutics, Inc.
+CEO: Arthur T. Sands, M.D., Ph.D. (appointed September 2014, President since June 2020)
+Background: Co-founded Nurix in 2009 (originally Nurix Inc., renamed Nurix Therapeutics October 2018). In 2015, completed strategic collaboration with Celgene for novel small molecule therapeutics in oncology, inflammation and immunology including $150 million upfront payment plus significant milestones, royalties and commercialization options. Prior to Nurix, co-founded Lexicon Pharmaceuticals and served as President, Chief Executive Officer, and Board Director from 1995 to July 2014. At Lexicon, pioneered development of large-scale gene knockout technology for drug discovery and guided evolution from research-stage to drug development company, catalyzed by alliances with Bristol Myers Squibb, Takeda and Genentech, generating over $450 million in revenue. Before founding Lexicon, served as American Cancer Society postdoctoral fellow in Department of Human and Molecular Genetics at Baylor College of Medicine. Currently Director of Biotechnology Innovation Organization.
+Education: B.A. Economics and Political Science Yale University, M.D. and Ph.D. Cell Biology Baylor College of Medicine
+Company: Founded 2009, San Francisco CA, Nasdaq: NRIX, IPO July 2020
+Focus: Clinical-stage biopharmaceutical company focused on discovery, development and commercialization of targeted protein degradation medicines for oncology and autoimmune diseases via proprietary DELigase platform leveraging ubiquitin-proteasome system (UPS)
+Pipeline: Bexobrutideg/NX-5948 (orally bioavailable BTK degrader, pivotal Phase 2 DAYBreak trial for R/R CLL), NX-2127 (BTK degrader Phase 1 for R/R B-cell malignancies), NX-1607 (CBL-B inhibitor Phase 1 for immuno-oncology), NX-0479/GS-6791 (IRAK4 degrader with Gilead)
+Partnerships: Gilead Sciences, Sanofi, Pfizer
+IR: ir.nurixtx.com
+
+
+34. SNDX - Syndax Pharmaceuticals, Inc.
+CEO: Michael A. Metzger, M.B.A. (appointed CEO February 2022, previously President and COO since May 2015)
+Background: Joined Syndax as President and COO in May 2015, became board member July 2019, promoted to CEO February 2022 (Dr. Briggs Morrison transitioned from CEO to President, Head of R&D). Prior to Syndax, was President and CEO and Board member of Regado Biosciences (publicly traded biotechnology company) from October 2014 to May 2015, overseeing successful merger with Tobira Therapeutics (acquired by Allergan) in 2015. Previously President & COO at Regado December 2013 to October 2014. Before Regado, served as Executive Vice President and COO at Mersana Therapeutics (publicly traded, focused on ADC development for oncology) from March 2011 to November 2013. Prior experience in senior business development positions including leading M&A at Forest Laboratories (acquired by Allergan) from 2006 to February 2011. Earlier career: VP Corporate Development at Onconova Therapeutics, Managing Director at MESA Partners (venture capital firm). Recently served on board of CTI Biopharma Corp. (publicly traded, acquired by SOBI AB in 2023). Also serves on boards of other private and not-for-profit companies. Currently board member of Pyxis Oncology (since June 2024).
+Education: B.A. Political Science George Washington University, M.B.A. Finance New York University Stern School of Business (2001-2003)
+Company: Founded 2005, New York NY, Nasdaq: SNDX
+Focus: Commercial-stage biopharmaceutical company developing innovative cancer therapies targeting immune pathways and tumor microenvironments
+Products: Revuforj® (revumenib, FDA-approved menin inhibitor for R/R acute leukemia), Niktimvo™ (axatilimab-csfr, FDA-approved CSF-1 receptor blocking antibody for chronic graft-versus-host disease, co-commercialized with Incyte)
+Pipeline: Revumenib for R/R mNPM1 AML and combinations, axatilimab for idiopathic pulmonary fibrosis, Entinostat (Class 1 HDAC inhibitor)
+Partnership: Incyte (Niktimvo commercialization), Eddingpharm International (Entinostat licensing/development/commercialization)
+IR: ir.syndax.com
+
+35. IONS - Ionis Pharmaceuticals, Inc.
+CEO: Brett P. Monia, Ph.D. (appointed CEO January 2020, previously COO from January 2018)
+Background: Co-founded Ionis (originally named Isis Pharmaceuticals, renamed 2015) in 1989 as founding scientist. Recruited to help create company after completing postdoctoral fellowship. Over 35+ years at Ionis, ran drug discovery group in expanding capacities for decades. As head of Drug Discovery and Translational Medicine, responsible for preclinical drug discovery research focused on RNA-targeted therapeutics, establishment and supervision of early clinical development strategies through clinical proof-of-concept, and coordinating research activities with clinical investigators and corporate partners. Led supervision of programs that resulted in clinical development of more than 40 oligonucleotide-based medicines across diverse areas including neurological, cardiovascular, respiratory diseases, oncology, metabolic disease, inflammation. Six medicines under his direct supervision have achieved global marketing approval. Became executive officer in 2012, promoted to COO and SVP Translational Medicine in January 2018, appointed CEO January 2020 (succeeded founding CEO Dr. Stanley T. Crooke who became Executive Chairman). Published 250+ primary research manuscripts, reviews and book chapters. Inventor on 100+ issued patents. Founding member and former President of Oligonucleotide Therapeutics Society (OTS), recipient of 2025 OTS Lifetime Achievement Award. Serves as senior editor for journal Nucleic Acid Therapeutics. Board member of Ionis, Cognition Therapeutics, and Flamingo Therapeutics. Adjunct Professor of Biology at San Diego State University where lectures at graduate level on pharmacology.
+Education: Ph.D. Pharmacology University of Pennsylvania, B.S. Molecular Biology and B.S. Analytical Chemistry Stockton State College (Pomona, New Jersey). Post-doctoral fellowship in Molecular Pharmacology at SmithKline & French Laboratories (completed 1989)
+Company: Founded 1989 (as Isis Pharmaceuticals, renamed Ionis 2015), Carlsbad CA, Nasdaq: IONS
+Focus: Pioneer and leader in RNA-targeted therapeutics for 35+ years, commercial-stage biopharmaceutical company with proprietary antisense technology platform discovering/developing treatments for genetic and rare diseases, neurology, cardiometabolic disease
+Products: WAINUA™ (eplontersen, co-commercialized with Sobi), TRYNGOLZA® (olezarsen), DAWNZERA™ (donidalorsen, first and only RNA-targeted prophylactic for hereditary angioedema)
+Pipeline: 40+ medicines in clinical development, multiple Phase 3 programs, ION582 (Angelman syndrome, FDA Breakthrough Therapy designation)
+Partnerships: Biogen (SPINRAZA for spinal muscular atrophy), AstraZeneca, Sobi (Swedish Orphan Biovitrum)
+IR: ir.ionis.com
+
+36. FATE - Fate Therapeutics, Inc.
+CEO: Bahram (Bob) Valamehr, Ph.D., M.B.A. (appointed CEO January 2025, previously President of R&D since ~2010)
+Background: For nearly 15 years, led development of Fate's iPSC platform and is a leader in the field of cellular therapeutics. Under his direction as President of R&D, company established world-class R&D organization yielding numerous high-tier journal publications, over 500 issued patents, and pipeline of highly innovative cellular products. His pursuit to treat patients with novel cellular therapeutics includes allowance of 13 Investigational New Drug applications, spanning treatment of hematological malignancies, solid tumors and autoimmune disorders. Before joining Fate, played key scientific roles at Amgen, the Center for Cell Control (a NIH Nanomedicine Development Center), and the Broad Stem Cell Research Center, developing novel methods to control pluripotency, to modulate stem cell fate including hematopoiesis, and to better understand cellular signaling pathways associated with aberrant cellular function. Has co-authored numerous studies and patents related to stem cell biology, immunology, oncology and materials science. Promoted from President of R&D to President and CEO January 1, 2025, succeeding Scott Wolchko who retired after 10 years of leadership (Wolchko was a company founder and served as CEO since December 2015). Director of Fate since January 2025.
+Education: Ph.D. Molecular and Medical Pharmacology UCLA, M.B.A. Pepperdine University, B.S. Chemistry and Biochemistry UCLA
+Company: Founded 2007, San Diego CA (headquarters at 12278 Scripps Summit Drive), Nasdaq: FATE, IPO 2014
+Focus: Clinical-stage biopharmaceutical company dedicated to bringing first-in-class induced pluripotent stem cell (iPSC)-derived cellular immunotherapies to patients with cancer and autoimmune disorders
+Platform: Proprietary iPSC product platform supported by IP portfolio of over 500 issued patents and 500 pending patent applications. Innovative platform enables generation of clonal master iPSC lines and scaled manufacture of off-the-shelf product candidates uniquely designed and engineered to perform disease fighting roles
+Pipeline: FT819 (CD19-targeted, 1XX CAR T-cell product for B cell lymphoma and systemic lupus erythematosus), FT825/ONO-8250 (CAR T-cell for advanced solid tumors, partnered with Ono Pharmaceutical). Company has treated 300+ individuals with multiplexed-engineered NK cell and T-cell product candidates
+Notable: Among largest standalone cell therapy companies focused on off-the-shelf NK cell and T-cell immunotherapies. First lupus nephritis patient treated with FT819 achieved drug-free clinical remission
+IR: ir.fatetherapeutics.com
+
+37. GERN - Geron Corporation
+CEO: Harout Semerjian, M.B.A. (appointed CEO August 2025)
+Background: Industry veteran with 30+ years of commercial hematology and oncology experience. Prior to Geron, served as CEO of GlycoMimetics (clinical-stage biotechnology company) from August 2021 to February 2025, also serving on board of directors. Previously served briefly as CEO of Immunomedics in 2020 prior to its acquisition by Gilead Sciences. From March 2018 to April 2020, served as EVP, Chief Commercial Officer at Ipsen Pharma (global biopharmaceutical company), responsible for global commercial strategy, portfolio planning, and brand leadership across oncology, neuroscience, and rare disease. From February 2017 to February 2018, served as President of Ipsen's Specialty Care International Region and Global Franchises, leading operations across Europe, Asia-Pacific and Latin America. Prior to Ipsen, held multiple commercial and general management roles of increasing responsibility at Novartis from 2001 to 2017, most recently serving as Senior Vice President and Global Launch Leader for KISQALI® (ribociclib), where he led cross-functional launch preparations across global markets. Earlier at Novartis, led U.S. hematology franchise and commercial efforts for several key oncology brands, including serving as global brand director for Gleevec® (imatinib). Started pharmaceutical career at Solvay before joining Novartis where he spent 17 years in U.S. and global commercial and operational leadership roles. Serves as board member of Biotechnology Innovation Organization since October 2023. Director of Geron since August 2025. Succeeded Dawn Carter Bir who served as Interim President and CEO since March 2025 (following departure of Dr. John "Chip" A. Scarlett who served 14 years). Bir continues on Geron's Board of Directors.
+Education: M.B.A. Cornell University and Queen's University (Canada), B.S. Biology Lebanese American University (Lebanon)
+Company: Founded 1990 (incorporated), Foster City CA, Nasdaq: GERN, founded by gerontologist Mary C. West and Michael D. West
+Focus: Commercial-stage biopharmaceutical company aiming to change lives by changing the course of blood cancer through first-in-class telomerase inhibitor
+Product: RYTELO® (imetelstat), first-in-class telomerase inhibitor approved in United States and European Union for treatment of certain adult patients with lower-risk myelodysplastic syndromes (LR-MDS) with transfusion-dependent anemia. Built on Nobel Prize-winning science
+Pipeline: Conducting pivotal Phase 3 clinical trial of imetelstat called IMpactMF in JAK-inhibitor relapsed/refractory myelofibrosis (R/R MF), as well as studies in other myeloid hematologic malignancies
+Notable: Company's Scientific and Clinical Advisory Board has included Nobel laureates James Watson, Gunter Blobel, and Carol Greider. Inhibiting telomerase activity (increased in malignant stem and progenitor cells in bone marrow) aims to reduce proliferation and induce death of malignant cells. After 33 years of development, RYTELO marks turn in Nobel-winning science for company
+Partnerships: Previously licensed imetelstat to Janssen Biotech in 2014, rights returned to Geron in 2018. FDA granted fast track status for imetelstat in 2017 for certain MDS patients
+IR: ir.geron.com
+
+38. RCUS - Arcus Biosciences, Inc.
+CEO: Terry J. Rosen, Ph.D. (co-founder May 2015, CEO since May 2015, Chairman)
+Background: Has been leading successful drug discovery and development organizations in the biotechnology and pharmaceutical industries for over 30 years. In 2015, co-founded Arcus with Juan Carlos Jaen, a drug discovery company focused on treatment of cancer by blocking tumor-induced immunosuppression. Previously, was co-founder and CEO of Flexus Biosciences, a company created to develop small-molecule drugs to reverse tumor immunosuppression using Agents for Reversal of Tumor Immunosuppression (ARTIS) concept. Flexus was acquired by Bristol-Myers Squibb early in 2015 for $1.25 billion (just 14 months after starting the company). Prior to Flexus, served as Vice President, Therapeutic Discovery (TD) at Amgen and as site head for Amgen South San Francisco, having joined Amgen with acquisition of Tularik in 2004. Named Amgen Washington site head in 2006, transitioned to leadership role heading Chemistry Research and Discovery in 2007, and became head of Protein Sciences in 2011. He and his leadership team were responsible for creation of TD organization, group of 550+ staff responsible for all of Amgen's large and small molecule drug discovery efforts. Prior to joining Amgen, held several executive positions at Tularik, including EVP Operations, VP Research Operations, and VP Medicinal Chemistry. Has also held scientific and management positions at Pfizer and Abbott Laboratories. Serves on boards of scientific institutions including Salk Institute Board of Trustees and California Life Sciences Association. Also serves as Director at PACT Pharma, Inc. and Epiodyne, Inc. Formed Flexus Biosciences in 2013 with Juan Jaen after seven months of consideration, persuading Jaen to join team. The pair have nearly 40 years of collegiate respect and friendship dating back to UC Berkeley where they both pursued Ph.D.s in chemistry.
+Education: Ph.D. Organic Chemistry University of California, Berkeley, B.S. Chemistry University of Michigan
+Company: Founded 2015, Hayward CA (previously South San Francisco), NYSE: RCUS, IPO 2018, 577 employees
+Focus: Clinical-stage, global biopharmaceutical company focused on developing differentiated molecules and combination therapies for patients with cancer, inflammatory and autoimmune diseases. Overarching vision of "combining to cure" has led to multiple product candidates in clinic across more than dozen clinical studies in areas of high unmet need
+Platform: Not formed around specific discovery or platform; very deliberate when selecting biological pathways. Focuses on ATP-adenosine pathway (key driver of immunosuppression in tumor microenvironment) to create and optimize differentiated small-molecule immuno-oncology product candidates
+Pipeline: Casdatifan (HIF-2α inhibitor for kidney cancer, in late-stage development), Domvanalimab (anti-TIGIT antibody in Phase 2 and Phase 3 trials for lung and gastrointestinal cancers), Quemliclustat (CD73 enzyme inhibitor in Phase 3 and Phase 1/1b trials for lung and pancreatic cancer), Etrumadenant (dual A2a/A2b adenosine receptor antagonist in Phase 2 trial for colorectal cancer), Zimberelimab (anti-PD-1 antibody). Two molecules in Phase III trials for non-small cell lung cancer (NSCLC). Six molecules developed for range of cancers
+Partnerships: Collaboration with Gilead Sciences (2020 deal for TIGIT and PD-1 programs worth up to $2B). Strategic collaboration with Taiho Pharmaceutical (Taiho exercised option in 2025 to develop and commercialize casdatifan in Japan and certain other territories in Asia excluding mainland China, based on 2017 option and license agreement)
+Notable: Company developed six molecules in seven years with highly combinable, best-in-class approach
+IR: investors.arcusbio.com
+
+

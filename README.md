@@ -7,6 +7,12 @@ After doing preliminary data preparation from Excel files and SEC files, we came
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
 ### How to run it on your own machine
+I recommend using a virtual machine to run this streamlit.
+
+cmd prompt:
+
+venv\Scripts\activate.bat
+streamlit run streamlit_app.py
 
 1. Install the requirements
 
